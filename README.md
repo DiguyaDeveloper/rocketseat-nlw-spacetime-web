@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  Next Level Weel Spacetime *Web*
+</p>
 
-## Getting Started
+<p align="center">
+  <img alt="Projeto Spacetime NLW" src=".github/preview.png" width="100%">
+</p>
 
-First, run the development server:
+## 💻 Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+WORK IN PROGRESS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Tecnologia
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [NextJS](https://nextjs.org/)
+- [JavaScript](https://www.javascript.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🔖 Layout
 
-## Learn More
+Você pode visualizar o layout do projeto através do link abaixo:
 
-To learn more about Next.js, take a look at the following resources:
+- [Layout](<https://www.figma.com/file/h1FpISito7RSUCtlQledXi/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Ignite-(Community)?type=design&node-id=205-3&t=5KqdM7K2CaWJWiz7-0>)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📝 License
 
-## Deploy on Vercel
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="center">
+  Feito com 💜 by Rocketseat
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/rocketseat">👉 Participe da nossa comunidade 👈</a>
+</p>
