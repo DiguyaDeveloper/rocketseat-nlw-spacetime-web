@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "lint:fix": "eslint src --ext .ts --fix",
-    "prettier": "prettier \"src/**/*.+(ts|js)\" --check",
+    "lint:fix": "eslint src --ext .tsx --fix",
+    "prettier": "prettier \"src/**/*.+(tsx|ts|jsx|js)\" --check",
     "prettier:fix": "prettier --write \"src/**/*.+(ts|js|json)\"",
     "prepare": "husky install"
   },
