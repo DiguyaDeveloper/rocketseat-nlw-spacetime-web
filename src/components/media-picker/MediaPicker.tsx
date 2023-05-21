@@ -20,6 +20,7 @@ export function MediaPicker() {
   return (
     <>
       <input
+        name="coverUrl"
         type="file"
         id="media"
         accept="image/*"
